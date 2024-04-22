@@ -11,7 +11,7 @@ This repository contains the code and assets for a short course on web programmi
 To view the cells:
 
 1. Clone this repo
-2. Open each folder to see tasks.
+2. Open each folder to see task implementation
 
 ## Contributors
 
