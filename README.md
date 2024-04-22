@@ -6,14 +6,6 @@ A web programming short course from 42Malaga School.
 
 This repository contains the code and assets for a short course on web programming taught at 42Malaga School. The course covers HTML, CSS and JavaScript programming.
 
-## cells
-
-The course content is divided into cells (like Jupyter Notebooks) that each demonstrate a new concept or technique:
-
-- cell0 - Basic HTML page structure
-- cell1 - CSS styling and layout 
-- cell2 - JavaScript features
-
 ## Usage
 
 To view the cells:
@@ -23,9 +15,9 @@ To view the cells:
 
 ## Contributors
 
-This course was created by:
+This repository was created by:
 
-- Vladimir Katasonov - Student at 42Malaga School
+- Vladimir Katasonov - Student at 42Malaga School (@vkatason)
 
 
 
